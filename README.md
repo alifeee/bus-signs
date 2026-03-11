@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/bus-signs/about/>
 # Bus Signs
 
 Based on code from <https://github.com/ConnectedHumber/Bus-Terminal-Signs>.
